@@ -1,0 +1,16 @@
+Date,Type,Category,Amount
+2025-03-01,Credit,Salary,100000
+2025-03-02,Debit,Rent,25000
+2025-03-03,Debit,Groceries,5000
+2025-03-05,Debit,Electricity,2000
+2025-03-06,Debit,Entertainment,7000
+2025-03-10,Credit,Freelance,20000
+2025-03-11,Debit,Shopping,10000
+2025-03-15,Debit,Transportation,3000
+2025-03-18,Credit,Investment Return,15000
+2025-03-20,Debit,Medical,4000
+2025-03-22,Debit,Dining Out,6000
+2025-03-25,Credit,Bonus,30000
+2025-03-27,Debit,Insurance,12000
+2025-03-29,Debit,Subscription,1500
+2025-03-30,Debit,Others,5000
